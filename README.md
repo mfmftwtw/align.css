@@ -11,7 +11,7 @@ Align.css can align anything quite painlessly.
 1\. Include the file.
 
 ```html
-  <link rel="stylesheet" href="align.css">
+<link rel="stylesheet" href="align.css">
 ```
 
 ## Documentation
@@ -28,14 +28,14 @@ Align.css can align anything quite painlessly.
 <div class="al-ie8"><div class="al-center"></div></div>
 ```
 
-|                   | Class Name  |
+| Description       | Class Name  |
 | ----------------- | ----------- | 
-| center            | `al-center` |
-| top               | `al-top`    |
-| bottom            | `al-bottom` | 
-| left              | `al-left`   | 
-| right             | `al-right`  | 
-| IE8 nad IE9 hack  | `al-ie8`    | 
+| Center            | `al-center` |
+| Top               | `al-top`    |
+| Bottom            | `al-bottom` | 
+| Left              | `al-left`   | 
+| Right             | `al-right`  | 
+| IE8 and IE9 Hack  | `al-ie8`    | 
 
 ## Browser Support
 
