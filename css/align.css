@@ -1,0 +1,13 @@
+.al-center, .al-top, .al-bottom, .al-left, .al-right { display: flex; }
+.al-center { align-items: center; justify-content: center; }
+.al-top { align-items: flex-start; }
+.al-bottom { align-items: flex-end; }
+.al-left { justify-content: flex-start; }
+.al-right { justify-content: flex-end; }
+.al-ie8 { display: table; }
+.al-ie8 .al-center,.al-ie8 .al-top,.al-ie8 .al-bottom,.al-ie8 .al-right,.al-ie8 .al-left { display: table-cell; }
+.al-ie8 > .al-center { vertical-align: middle; text-align: center; }
+.al-ie8 > .al-top { vertical-align: top; }
+.al-ie8 > .al-bottom { vertical-align: bottom; }
+.al-ie8 > .al-left { text-align: left; }
+.al-ie8 > .al-right { text-align: right; }
